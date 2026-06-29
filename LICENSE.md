@@ -1,4 +1,4 @@
-# 
+# Élite AI Job Application Bot herramientas. Con IA explicable y detección de objetos — optimizado para el máximo rendimiento.
 
 
 
